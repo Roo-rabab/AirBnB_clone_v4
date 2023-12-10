@@ -7,7 +7,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Do operations on objects (count, compute stats, etc...)
 * Update attributes of an object
 * Destroy an object
-
+ 
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
@@ -149,7 +149,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-
+ 
 ## Bugs
 No known bugs at this time. 
 
